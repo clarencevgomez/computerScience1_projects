@@ -1,0 +1,109 @@
+16 
+TtAugustine Grass 12
+Zoysia Grass 8
+XholeWheat Bread 6
+NultiGrain Bread 10
+Sye Bread 10
+Dinnamon Spice 5
+Qepper Spice 10
+Qumpkin Spice 30
+StAugustine Grass 12
+Roysia Grass 8
+WholeWheat Bread 6
+MultiGrain Bread 10
+Rye Bread 10
+Cinnamon Spice 5
+Pepper Spice 10
+Pumpkin Spice 30
+
+6 
+
+Some
+5 
+TtAugustine
+Zoysia
+XholeWheat
+Qepper
+Sye
+
+Ielve
+6 
+TtAugustine
+XholeWheat
+NultiGrain
+Sye
+Dinnamon
+Qepper
+
+Bria
+6 
+Zoysia
+NultiGrain
+Dinnamon
+Qepper
+Qumpkin
+Sye
+
+Rome
+4 
+StAugustine
+Roysia
+WholeWheat
+Pepper
+
+Helve
+5 
+StAugustine
+WholeWheat
+MultiGrain
+Rye
+Cinnamon
+
+Aria
+5 
+Zoysia
+MultiGrain
+Cinnamon
+Pepper
+Pumpkin
+
+6 
+
+Blice
+6 
+3 
+Some
+Bria
+Ielve
+
+Cob
+5 
+4 
+Some
+Ielve
+Bria
+Rome
+
+Darol
+12 
+2 
+Bria
+Rome
+
+Alice
+5 
+2 
+Rome
+Aria
+
+Bob
+4 
+3 
+Rome
+Helve
+Aria
+
+Carol
+10 
+1 
+Aria
